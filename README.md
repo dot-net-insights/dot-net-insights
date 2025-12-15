@@ -1,4 +1,4 @@
-# Hey there!  👋 I'm Sundaram Subramanian (author - dot-net-insights)
+# Hey there!  👋 I'm Sundaram Subramanian (author of dot-net-insights)
 
 **Solutions Architect** | Cloud & Microservices Specialist | Backend Development Enthusiast
 
